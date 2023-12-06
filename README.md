@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eviee3008
 - 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently learning Python, SQL, Excel and PowerBI
-- 💞️ I’m looking to collaborate on mostly Python Data Science or Data Analysis projects
+- 💞️ I’m looking to collaborate on mostly Exploratory Data Analysis (EDA) and Machine Learning projects using Python
 - 📫 How to reach me: Connect with me on LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 <!---
