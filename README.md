@@ -5,8 +5,8 @@
 - 📫 Connect with me on LinkedIn: [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/in/evie-england-031457172/)
 
 - Please view these two repositories for my most developed projects so far:
-  - Text_Message_Analysis
-  - SMS_Spam_filter
+  - [Text Message Analysis](https://github.com/eviee3008/Text_Message_Analysis)
+  - [SMS Spam Filter](https://github.com/eviee3008/SMS_Spam_filter)
 
 
 
