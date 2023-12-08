@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Evie
 - 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently learning Python, SQL, Excel and PowerBI
-- 💞️ I’m looking to collaborate on mostly Exploratory Data Analysis (EDA) and Machine Learning projects using Python
+- 💞️ I’m looking to collaborate on mostly Exploratory Data Analysis and Machine Learning projects using Python
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/evie-england-031457172/). Please don't hesistate to message me if you would like to get in contact!
 
 - Please view these two repositories for my most developed projects so far:
