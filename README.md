@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on mostly Exploratory Data Analysis (EDA) and Machine Learning projects using Python
 - 📫 Connect with me on LinkedIn: [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/in/evie-england-031457172/)
 
-- Please view these two repositories for my best work so far:
+- Please view these two repositories for my most developed projects so far:
   - Text_Message_Analysis
   - SMS_Spam_filter
 
