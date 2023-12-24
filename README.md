@@ -8,7 +8,7 @@
   - [Text Message Analysis](https://github.com/eviee3008/Text_Message_Analysis) (primarily Exploratory Data Analysis)
   - [SMS Spam Filter](https://github.com/eviee3008/SMS_Spam_filter) (primarily Machine Learning)
 
-- Please view this repository for programs written as part of my skills bootcamp:
+- Please view this repository for code written as part of my skills bootcamp:
   - [CoGrammar Tasks](https://github.com/eviee3008/CoGrammar-Tasks)
 
 
