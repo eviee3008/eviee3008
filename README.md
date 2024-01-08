@@ -10,6 +10,9 @@
 
 - Please view this repository for code written as part of my skills bootcamp:
   - [CoGrammar Tasks](https://github.com/eviee3008/CoGrammar-Tasks)
+ 
+- Here is code written in completion of a Coursera Data Science certificate:
+  - [Python Data Science](https://github.com/eviee3008/Python_Data_Science/tree/main)
 
 
 
