@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on mostly Exploratory Data Analysis and Machine Learning projects using Python
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/evie-england-031457172/). Please don't hesistate to message me if you would like to get in contact!
 
-- **Please view these two repositories for my most developed data science projects so far:**
-  - [Text Message Analysis](https://github.com/eviee3008/Text_Message_Analysis) (primarily Exploratory Data Analysis)
+- **Please view these this repositories for my most developed data science project so far:**
   - [SMS Spam Filter](https://github.com/eviee3008/SMS_Spam_filter) (primarily Machine Learning)
 
 - Please view this repository for code written as part of my skills bootcamp:
